@@ -1,1 +1,1 @@
-# HangMan-Gae
+# HangMan-Game
