@@ -21,6 +21,8 @@ This is a simple Hangman game implemented in C++. It's a console-based applicati
 - Tracks and displays the guessed letters.
 - Provides feedback on correct and incorrect guesses.
 - Limits the number of incorrect guesses before a game over.
-# Video
 
-[![Hangman Gameplay Video](https://img.youtube.com/vi/Axfo1AMJrcw/0.jpg)](https://www.youtube.com/watch?v=Axfo1AMJrcw)
+# Screenshots
+
+![1](https://github.com/sinhasaurabh079/HangMan-Game/blob/main/assets/Screenshot1.png)
+![2](https://github.com/sinhasaurabh079/HangMan-Game/blob/main/assets/Screenshot2.png)
